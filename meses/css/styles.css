@@ -1,0 +1,41 @@
+body{
+  text-align: center;
+  background-color: 	salmon;
+  font-family: 'Kanit', sans-serif;
+  color: cornsilk;
+}
+
+h1{
+  padding-top: 80px;
+  padding-bottom: 20px;
+}
+
+hr{
+  border: none;
+  border-top: 8px dotted black;
+  color: black;
+  width:70px;
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+
+p{
+  font-size: 1.2rem;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+
+.foto{
+  width: 220px;
+  height: 250px;
+  padding: 10px;
+  padding-bottom: 50px;
+}
+
+.fotos{
+  width: 280px;
+  height: 300px;
+  padding: 10px;
+  padding-bottom: 50px;
+}

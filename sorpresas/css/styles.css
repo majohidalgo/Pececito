@@ -1,0 +1,80 @@
+body{
+  text-align: center;
+  background-color: 	salmon;
+  font-family: 'Kanit', sans-serif;
+  color: cornsilk;
+}
+
+h1{
+  text-decoration: bold;
+  padding-top: 60px;
+  padding-bottom: 20px;
+}
+
+h2{
+  padding-top: 1px;
+}
+
+hr{
+  border: none;
+  border-top: 8px dotted black;
+  color: black;
+  width:70px;
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+
+p{
+  font-size: 1.2rem;
+}
+
+.text{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.navbar-nav{
+  text-decoration: none;
+  color: black;
+}
+
+.anillo{
+  max-width: 20%;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.collar{
+  max-width: 20%;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.pulseras{
+  max-width: 20%;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+
+.stone{
+  max-width: 20%;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.pillow{
+  max-width: 3%;
+}
+
+.rose{
+  max-width: 5%;
+}
+
+.bunny{
+  max-width: 5%;
+}
+
+.couch{
+  max-width: 5%;
+}

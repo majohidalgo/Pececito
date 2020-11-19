@@ -1,0 +1,79 @@
+body{
+  text-align: center;
+  background-color: 	salmon;
+  font-family: 'Kanit', sans-serif;
+  color: cornsilk;
+  font-size: 1.1rem;
+}
+
+h1{
+  padding: 50px 0 20px 0;
+  font-size: 3rem;
+  color: #FAEBD7;
+}
+
+
+p{
+  font-size: 1.1rem;
+  padding:20px 20px;
+}
+
+
+hr{
+  border: none;
+  border-top: 8px dotted black;
+  color: black;
+  width:70px;
+  margin-top: 50px;
+}
+
+h2{
+  padding-top: 30px;
+}
+
+/*nav info*/
+
+.navbar-nav{
+  text-decoration: none;
+  color: black;
+}
+
+
+.subtitles{
+  padding: 40px 0 40px 0;
+}
+
+.tag{
+  color:#FAEBD7;
+}
+
+.tag:hover{
+  color: black;
+  text-decoration: none;
+}
+
+.grinch{
+  max-width: 10%;
+}
+
+.smile{
+  max-width: 10%;
+}
+
+.rock{
+  max-width: 10%;
+}
+
+.special{
+  max-width: 10%;
+}
+
+.mes1{
+  padding-right: 0px;
+}
+
+.uno{
+  max-width: 10%;
+  float: right;
+  padding: 0;
+}
